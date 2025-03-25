@@ -1,0 +1,5 @@
+{
+    "prompt": "@workspace generate full detailed architecture diagram using mermaid. don't use return keyword",
+    "output_file": "mermaid.md"
+  }
+  
